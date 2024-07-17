@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bonangira
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning project management and evaluation 
-- 💞️ I’m looking to collaborate on data analysis 
+- 💞️ I’m looking to collaborate on data analytics and data science 
 - 📫 How to reach me: WhatsApp Messenger: +254795462902
 - 😄 Pronouns: Mr
 - ⚡ Fun fact:I love playing with dogs 
